@@ -1,0 +1,12 @@
+# Logs
+*.log
+
+# Temp / swap files (Vim)
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Env files (just in case later)
+.env
