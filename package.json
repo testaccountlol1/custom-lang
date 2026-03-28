@@ -1,0 +1,16 @@
+{
+  "name": "idkscript",
+  "version": "1.0.0",
+  "description": "My tiny custom scripting language",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "is": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["language", "interpreter", "cli"],
+  "author": "",
+  "license": "ISC"
+}
