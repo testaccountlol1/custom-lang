@@ -10,3 +10,5 @@ Thumbs.db
 
 # Env files (just in case later)
 .env
+node_modules/
+*.json
